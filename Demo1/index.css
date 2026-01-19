@@ -134,3 +134,8 @@ button:hover{
     justify-content: center;
 }
 
+.Education{
+    text-align: center;
+    background-color: rgb(237, 234, 234);
+    border-radius: 50px;
+}
