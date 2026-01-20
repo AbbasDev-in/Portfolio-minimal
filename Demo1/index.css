@@ -139,3 +139,9 @@ button:hover{
     background-color: rgb(237, 234, 234);
     border-radius: 50px;
 }
+
+.contact{
+    margin: 100px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
