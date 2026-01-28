@@ -145,3 +145,23 @@ button:hover{
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
+
+input{
+    padding: 5px;
+    margin: 10;
+    border-radius: 5px;
+    box-shadow: 100px;
+    border-color: black;
+}
+
+input[type="submit"]{
+    padding: 10px;
+    background-color: azure;
+}
+
+input[type="submit"]:hover{
+    background-color: aquamarine;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family:sans-serif
+}
